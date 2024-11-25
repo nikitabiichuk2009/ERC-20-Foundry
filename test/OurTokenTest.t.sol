@@ -38,7 +38,7 @@ contract OurTokenTest is Test {
         assertEq(token.name(), "NikitaBiichuk");
     }
 
-    function testOwnerIsDeployer() public view {
+    function testOwnerIsCorrect() public view {
         assertEq(token.owner(), address(this));
     }
 
