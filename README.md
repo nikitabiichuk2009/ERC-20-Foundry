@@ -1,12 +1,12 @@
 # ERC-20 Token: Nikita Biichuk Token
 
 **Deployed to Sepolia:**  
-[View on Etherscan](https://sepolia.etherscan.io/address/0x8009afcfd1ec779c42bcfa4105811451fef895ed)
+[View on Etherscan](https://sepolia.etherscan.io/address/0x0d18515830ccde39904a099091ca5cf4a1cb2a2f)
 
 **Built on top of:**  
 OpenZeppelin ERC-20 Contract
 
-**Test coverage:**  
+**Test coverage:**
 
 ![Test coverage](./coverage/coverage.png)
 
